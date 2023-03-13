@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=nhk9710&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Simon&fontSize=90)
